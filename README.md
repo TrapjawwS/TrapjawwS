@@ -41,7 +41,7 @@
 </h4>
 
 <h4 align="center">
-  <a [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"> </a>
 </h4>
 
 
