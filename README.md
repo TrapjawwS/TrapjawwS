@@ -40,9 +40,10 @@
   <a href="https://github.com/TrapjawwS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h4 align="center">
+  <a [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </a>
+</h4>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Trapjaww)
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
