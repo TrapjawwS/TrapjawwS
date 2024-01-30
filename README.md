@@ -40,9 +40,7 @@
   <a href="https://github.com/TrapjawwS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<h4 align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"> </a>
-</h4>
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" width="100%"/>
 
 
 <!--
