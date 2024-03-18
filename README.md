@@ -40,7 +40,9 @@
   <a href="https://github.com/TrapjawwS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TrapjawwS&theme=onedark" width="100%"/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kwudcnbf4iogcfwlj4i3hinmu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
